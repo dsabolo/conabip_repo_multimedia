@@ -1,0 +1,348 @@
+// 20160414103538
+// http://www.conabip.gob.ar/ws/canalbp
+
+{
+  "nodes": [
+    {
+      "node": {
+        "title": "Tutorial Libro % Instructivo rendciones",
+        "Resumen": "Video tutorial con la información para la rendición del subsidio del Programa Libro % que lleva adelante la CONABIP.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/foto.jpg?itok=9YmmqgBR",
+          "alt": ""
+        },
+        "Video Youtube": "rDxQsTKuTr0"
+      }
+    },
+    {
+      "node": {
+        "title": "Tutorial Libro % Recomendaciones ",
+        "Resumen": "Video tutorial con las sugerencias y recomendaciones para las bibliotecas populares que participan del Programa Libro % que lleva adelante la CONABIP.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/foto%20tutorial.jpg?itok=2uOBffN1",
+          "alt": ""
+        },
+        "Video Youtube": "wO8AKqwrpD8"
+      }
+    },
+    {
+      "node": {
+        "title": "10 años democratizando la lectura en las bibliotecas populares argentinas ",
+        "Resumen": "Por décimo año consecutivo el Estado Nacional, a través de la CONABIP, convocó a bibliotecas populares de todo el país a participar del Programa Libro%.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/_DSC6015.jpg?itok=ytVIQu7s",
+          "alt": ""
+        },
+        "Video Youtube": "SDYLSY9TdbQ"
+      }
+    },
+    {
+      "node": {
+        "title": "Presentación Libro de Atahualpa",
+        "Resumen": "Victor Pintos (autor del libro), Roberto Chavero (musico e hijo de A. Yupanqui), Lic. Maria del Carmen Bianchi, presidente de la CONABIP  presentaron el libro  el libro de las memorias de  Yupanqui ",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/atahualpa-yupanqui-jpg.jpg?itok=n-8vM014",
+          "alt": ""
+        },
+        "Video Youtube": "7gAn16hnhW8"
+      }
+    },
+    {
+      "node": {
+        "title": "¿Qué es  la CONABIP y las bibliotecas populares?",
+        "Resumen": "La Comisión se creó en 1870 con la promulgación de la Ley Nº 419, propiciada por Domingo Faustino Sarmiento, para fomentar la creación y el desarrollo de las bibliotecas populares que difunden el libro y la cultura.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/BP%20Cnel.%20Manuel%20Arias%20-%20Humahuaca%2C%20Jujuy.jpg?itok=JuZ0e9q2",
+          "alt": ""
+        },
+        "Video Youtube": "5EhnLwxBQDU"
+      }
+    },
+    {
+      "node": {
+        "title": "Homenaje a Adrián Paenza, amigo de las Bibliotecas Populares 2009 ",
+        "Resumen": "Adrián Paenza, un hombre preocupado por traducir la complejidad de la ciencia a un lenguaje cotidiano, doctor en ciencias matemáticas y periodista deportivo, conjugando ambas pasiones ha traducido los conocimientos del mundo de lo abstracto a la vida cotidiana. Esta tarea la desarrolla desde diarios nacionales y revistas, habiendo recibiendo como distinción a su labor el premio Konex y el Martín Fierro.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/PAENZA%203.jpg?itok=0SYSL0qB",
+          "alt": ""
+        },
+        "Video Youtube": "XRsnbMiwkIk"
+      }
+    },
+    {
+      "node": {
+        "title": "Acto Amigo de las Bibliotecas Populares a León Gieco 2010 ",
+        "Resumen": "El premio anual “Amigo de las Bibliotecas Populares” es uno de los acontecimientos más esperados por dirigentes y bibliotecarios en la Feria del Libro de Buenos Aires. La elección es otorgada a representantes de la cultura, cuya trayectoria de vida sea ejemplar en el valor de mantener, difundir y acrecentar las cualidades de la cultura regional de nuestro país.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/_DSC4677.JPG?itok=ulKRm7h5",
+          "alt": ""
+        },
+        "Video Youtube": "jKDBQGRl9wU"
+      }
+    },
+    {
+      "node": {
+        "title": "Video homenaje a León Giego Amigo de las Bibliotecas Populares 2010 ",
+        "Resumen": "León Gieco fue distinguido por la Conabip con el premio \"Amigo de las Bibliotecas Populares 2010\", entregado en manos de Osvaldo Bayer, ganador del mismo galardón en 2007, en el marco de la 36ta. edición de la Feria del Libro. Se trata de una distinción por el \"aporte a la Cultura Nacional y al desarrollo de las Bibliotecas Populares”.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/_DSC4692.JPG?itok=x-bHRvbF",
+          "alt": ""
+        },
+        "Video Youtube": "O4SMm3LENgU"
+      }
+    },
+    {
+      "node": {
+        "title": " La CONABIP firmó un Convenio de cooperación con el INTA ",
+        "Resumen": "El Instituto Nacional de Tecnología Agropecuaria (INTA) y la Comisión Nacional de Bibliotecas Populares (CONABIP) firmaron un Convenio Marco de Cooperación, cuyo objetivo es fortalecer el vínculo de colaboración entre ambos organismos del Estado a fin de desarrollar y ejecutar en forma conjunta diferentes acciones.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/dsc_0067.jpg?itok=fFvrUfF5",
+          "alt": ""
+        },
+        "Video Youtube": "6dU6nFVrfZI"
+      }
+    },
+    {
+      "node": {
+        "title": "23 de Septiembre de 2012: 142º Aniversario de la CONABIP - Día de las Bibliotecas Populares. ",
+        "Resumen": "Compartimos en Tecnópolis una jornada de festejos con reconocidos artistas e invitados. Estas actividades se sumaron a las que, a lo largo y ancho de todo el país, llevaron a cabo las bibliotecas populares conmemorando su día.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/_DSC5001.JPG?itok=U3U2O_XW",
+          "alt": ""
+        },
+        "Video Youtube": "uyTPqX4UBZg"
+      }
+    },
+    {
+      "node": {
+        "title": "La CONABIP en el predio de Tecnópolis",
+        "Resumen": "La biblioteca gigante fue uno de los imperdibles de la edición de Tecnópolis 2011",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/_DSC7018_0.JPG?itok=c7IqvwXd",
+          "alt": ""
+        },
+        "Video Youtube": "Xw1lf5Dgwnw"
+      }
+    },
+    {
+      "node": {
+        "title": "140 Aniversario de la CONABIP ",
+        "Resumen": "La CONABIP es el organismo dependiente del Ministerio de Cultura de la Nación que fomenta el fortalecimiento de las bibliotecas populares en tanto organizaciones de la sociedad civil e impulsa su valoración pública como espacios físicos y sociales relevantes para el desarrollo comunitario y la construcción de ciudadanía.  ",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/CONABIP2_0.jpg?itok=Xkq479aZ",
+          "alt": ""
+        },
+        "Video Youtube": "lc8BSMhpST0"
+      }
+    },
+    {
+      "node": {
+        "title": "Acto presentación de Colección BP de la obra completa de Griselda Gambaro",
+        "Resumen": "El martes 15 de noviembre de 2011, la CONABIP y Griselda Gambaro presentó la edición de la obra teatral completa de esta distinguida autora que se entregará a las bibliotecas populares distribuidas a lo largo de todo el territorio nacional. En el acto, estuvieron presentes los actores Joaquín Furriel y Cristina Banegas que leyeron fragmentos de la obra de Gambaro.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/7.jpg?itok=nGzSEeSN",
+          "alt": ""
+        },
+        "Video Youtube": "yun2QcNdYYk"
+      }
+    },
+    {
+      "node": {
+        "title": "Griselda Gambaro en la presentación de sus obras completas para la Colección BP ",
+        "Resumen": "Hablamos con Griselda Gambaro sobre su obra y la oportunidad de que este en todas las Bibliotecas Populares del país.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/18_0.jpg?itok=SZxN35Qd",
+          "alt": ""
+        },
+        "Video Youtube": "Hp63G3e7nBs"
+      }
+    },
+    {
+      "node": {
+        "title": "Cristina Benegas en la presentación de Colección BP ",
+        "Resumen": "Entrevista a a Cristina Benegas en la presentación de ñas obras de Griselda Gambaro, año 2011.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/16.jpg?itok=LbVrce1R",
+          "alt": ""
+        },
+        "Video Youtube": "87bDyvjQ6wQ"
+      }
+    },
+    {
+      "node": {
+        "title": "Joaquín Furriel en la presentación de Colección BP",
+        "Resumen": "En el año 2011 la CONABIP presentó la edición de la obra teatral completa de Griselda Gambaro para bibliotecas populares",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/11.jpg?itok=H2b2vYhE",
+          "alt": ""
+        },
+        "Video Youtube": "WBBEJgasqPU"
+      }
+    },
+    {
+      "node": {
+        "title": "El Bibliomóvil de la CONABIP promocionando la lectura en San Clemente",
+        "Resumen": "Con el Bibliomóvil de la CONABIP, las bibliotecas populares promocionan la lectura en  cada rincón del país.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/20_3.jpg?itok=I7VOLtQs",
+          "alt": ""
+        },
+        "Video Youtube": "c934pClZg1k"
+      }
+    },
+    {
+      "node": {
+        "title": "El Bibliomóvil de la CONABIP en el Club Boca Juniors",
+        "Resumen": "Los circuitos regionales de promoción de la lectura con el uso del Bibliomóvil promueven la llegada al libro y la animación a la lectura.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/18_1.jpg?itok=lQDPVDZM",
+          "alt": ""
+        },
+        "Video Youtube": "OGW3UuEe5dQ"
+      }
+    },
+    {
+      "node": {
+        "title": "El Bibliomóvil de la CONABIP en Santa Teresita",
+        "Resumen": "Los bibliomóviles de la CONABIP recorren la argentina ofreciendo libros y actividades culturales.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/19_1.jpg?itok=HYvsO6fY",
+          "alt": ""
+        },
+        "Video Youtube": "helQHGQbj2s"
+      }
+    },
+    {
+      "node": {
+        "title": "El bibliomóvil recorrió Córdoba",
+        "Resumen": "En plazas, colonias de vacaciones, clubes y playas los bibliomóviles promocionan la cultura nacional y la lectura en todo el país.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/san_clemente_7.jpg?itok=sRm1Ilih",
+          "alt": ""
+        },
+        "Video Youtube": "DGaNwqQQsno"
+      }
+    },
+    {
+      "node": {
+        "title": "El biblimóvil recorriendo Sierra de la Ventana",
+        "Resumen": "El Bibliomóvil es un vehículo equipado como biblioteca circulante y es también un pequeño centro cultural que cuenta con material bibliográfico y multimedial para niños, adolescentes y adultos. Cuenta con equipamiento informático y multimedia.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/7_1.jpg?itok=Cjg_6c_t",
+          "alt": ""
+        },
+        "Video Youtube": "LIS-3nGirQg"
+      }
+    },
+    {
+      "node": {
+        "title": "El Bibliomóvil de la CONABIP recorrió Las Toninas",
+        "Resumen": "Los circuitos regionales de promoción de la lectura con el uso del Bibliomóvil promueven la llegada al libro y la animación a la lectura a sitios en los que no se accede a las bibliotecas por razones geográficas, sociales o económicas.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/32.jpg?itok=vM0uhcys",
+          "alt": ""
+        },
+        "Video Youtube": "StVmiKFBWrI"
+      }
+    },
+    {
+      "node": {
+        "title": "La CONABIP realiza capacitaciones presenciales en todo el país",
+        "Resumen": "El Plan Nacional de capacitaciones impulsa el mejoramiento de la gestión bibliotecaria, cultural y social de las bibliotecas populares. A través de la implementación de modalidades específicas de capacitación, se promueve la incorporación de elementos técnicos y conceptuales que les permitan a las bibliotecas populares una mayor autonomía, inserción comunitaria y local.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/dsc_0261.jpg?itok=l5eFQcIU",
+          "alt": ""
+        },
+        "Video Youtube": "qW7JRtO7j0A"
+      }
+    },
+    {
+      "node": {
+        "title": "Spot publicitario las bibliotecas populares en la Feria del libro",
+        "Resumen": "Spot publicitario de la participación de las bibliotecas populares de todo el país trasmitido en Fútbol para todos ",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/_dsc7801.jpg?itok=Xg2WYqon",
+          "alt": ""
+        },
+        "Video Youtube": "UYka6Wt-BGo"
+      }
+    },
+    {
+      "node": {
+        "title": "Claudia Masin recita El calor del mundo",
+        "Resumen": "Serie de micro programas realizados por la Comisión Nacional de Bibliotecas Populares (CONABIP) junto con el Canal Encuentro dentro del predio de Tecnópolis. Los capítulos integran un compendio de lectura de poemas, cuentos y ensayos de autores argentinos. Participan Roberto Carnaghi, Sergio Olguín, Mirta Busnelli, Claudia Piñeiro, Lucas Ferraro, Juan Diego Incardona, Gastón Pauls, Paula Jiménez, Claudia Masin, Guillermo Pfening y Martín Kohan, entre otros.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/encuentro._conabip._claudia_masin_25.jpg?itok=G1ZhorPb",
+          "alt": ""
+        },
+        "Video Youtube": "Q88rzUiCF5k"
+      }
+    },
+    {
+      "node": {
+        "title": "Mirta Busnelli recita \"El Río\" de Juan L. Ortiz",
+        "Resumen": "Serie de micro programas realizados por la Comisión Nacional de Bibliotecas Populares (CONABIP) junto con el Canal Encuentro dentro del predio de Tecnópolis. Los capítulos integran un compendio de lectura de poemas, cuentos y ensayos de autores argentinos. Participan Roberto Carnaghi, Sergio Olguín, Mirta Busnelli, Lucas Ferraro, Juan Diego Incardona, Gastón Pauls, Paula Jiménez, Claudia Masin, Guillermo Pfening y Martín Kohan, entre otros.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/biblioteca_conabip_-_mirta_busnelli.jpg?itok=TO_wId1s",
+          "alt": ""
+        },
+        "Video Youtube": "P2RCUPVyBPI"
+      }
+    },
+    {
+      "node": {
+        "title": "Darío Sztajnszrajber recita La última vez",
+        "Resumen": "Serie de micro programas realizados por la Comisión Nacional de Bibliotecas Populares (CONABIP) junto con el Canal Encuentro dentro del predio de Tecnópolis. Los capítulos integran un compendio de lectura de poemas, cuentos y ensayos de autores argentinos. Participan Roberto Carnaghi, Sergio Olguín, Mirta Busnelli, Claudia Piñeiro, Lucas Ferraro, Juan Diego Incardona, Gastón Pauls, Paula Jiménez, Claudia Masin, Guillermo Pfening y Martín Kohan, entre otros.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/biblioteca_conabip_-_dario_stanzjraiber.jpg?itok=ly_7AZjg",
+          "alt": ""
+        },
+        "Video Youtube": "1AdeFKy9OU8"
+      }
+    },
+    {
+      "node": {
+        "title": "Lucas Ferraro Historias con Migalas de Julio Cortázar",
+        "Resumen": "Serie de micro programas realizados por la Comisión Nacional de Bibliotecas Populares (CONABIP) junto con el Canal Encuentro dentro del predio de Tecnópolis. Los capítulos integran un compendio de lectura de poemas, cuentos y ensayos de autores argentinos. Participan Roberto Carnaghi, Sergio Olguín, Mirta Busnelli, Claudia Piñeiro, Lucas Ferraro, Juan Diego Incardona, Gastón Pauls, Paula Jiménez, Claudia Masin, Guillermo Pfening y Martín Kohan, entre otros.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/_dsc6134.jpg?itok=lIkws7ad",
+          "alt": ""
+        },
+        "Video Youtube": "0ptd2F5946s"
+      }
+    },
+    {
+      "node": {
+        "title": "Gaston Pauls recita Croquis en la arena de Oliverio Girondo",
+        "Resumen": "Serie de micro programas realizados por la Comisión Nacional de Bibliotecas Populares (CONABIP) junto con el Canal Encuentro dentro del predio de Tecnópolis. Los capítulos integran un compendio de lectura de poemas, cuentos y ensayos de autores argentinos. Participan Roberto Carnaghi, Sergio Olguín, Mirta Busnelli, Claudia Piñeiro, Lucas Ferraro, Juan Diego Incardona, Gastón Pauls, Paula Jiménez, Claudia Masin, Guillermo Pfening y Martín Kohan, entre otros.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/170043.jpg?itok=ggqvdhmN",
+          "alt": ""
+        },
+        "Video Youtube": "nzq6G_1S3e8"
+      }
+    },
+    {
+      "node": {
+        "title": "Las bibliotecas populares participando del Programa LIBRO% ",
+        "Resumen": "El Programa LIBRO% es una de las acciones más importantes de la CONABIP. Es el momento en donde se reúnen escritores, lectores argentinos, latinoamericanos y de todo el mundo. Y por ende, las bibliotecas populares están presentes como representantes de uno de los movimientos culturales históricos del libro y la lectura en la Argentina.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/libro__17.jpg?itok=KQsW_14b",
+          "alt": ""
+        },
+        "Video Youtube": "gBKSxoAqEwQ"
+      }
+    },
+    {
+      "node": {
+        "title": "Las bibliotecas populares de compras en la Feria del libro 2010",
+        "Resumen": "Cada año, la CONABIP hace posible la participación de 2000 dirigentes y bibliotecarios de todo el país a través del Programa LIBRO%. Este incluye un subsidio para que puedan viajar y adquirir material bibliográfico de su elección a precios especiales que se gestionan con las principales editoriales nacionales presentes en la feria.",
+        "Imagen": {
+          "src": "http://www.conabip.gob.ar/sites/default/files/styles/thumbnoticias/public/libro__11.jpg?itok=DnfFmv2E",
+          "alt": ""
+        },
+        "Video Youtube": "ov4K5tu1F6E"
+      }
+    }
+  ]
+}
